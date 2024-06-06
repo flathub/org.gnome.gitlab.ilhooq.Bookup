@@ -10,6 +10,7 @@
         "--socket=fallback-x11",
         "--socket=wayland",
         "--socket=session-bus",
+        "--talk-name=org.freedesktop.FileManager1",
         "--filesystem=home",
         "--device=dri"
     ],
