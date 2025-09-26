@@ -49,7 +49,7 @@
             "builddir": true,
             "buildsystem": "meson",
             "config-opts": [
-                "--buildtype=release",
+                "--buildtype=release"
             ],
             "sources": [
                 {
